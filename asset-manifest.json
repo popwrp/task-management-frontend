@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://popwrp.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://popwrp.github.io/task-management-frontend/static/js/main.6c8f2690.chunk.js",
+    "main.js.map": "https://popwrp.github.io/task-management-frontend/static/js/main.6c8f2690.chunk.js.map",
+    "runtime~main.js": "https://popwrp.github.io/task-management-frontend/static/js/runtime~main.81a2939f.js",
+    "runtime~main.js.map": "https://popwrp.github.io/task-management-frontend/static/js/runtime~main.81a2939f.js.map",
+    "static/js/2.040a021b.chunk.js": "https://popwrp.github.io/task-management-frontend/static/js/2.040a021b.chunk.js",
+    "static/js/2.040a021b.chunk.js.map": "https://popwrp.github.io/task-management-frontend/static/js/2.040a021b.chunk.js.map",
+    "index.html": "https://popwrp.github.io/task-management-frontend/index.html",
+    "precache-manifest.5127b281cc2dc2c6a4d9d76abf8296e8.js": "https://popwrp.github.io/task-management-frontend/precache-manifest.5127b281cc2dc2c6a4d9d76abf8296e8.js",
+    "service-worker.js": "https://popwrp.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://popwrp.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
